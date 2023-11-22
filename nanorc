@@ -1,0 +1,19 @@
+include /usr/share/nano-syntax-highlighting/*.nanorc
+#set smooth
+set smarthome
+set constantshow
+set boldtext
+set nonewlines
+set autoindent
+set brackets ""')>]}"
+set matchbrackets "(<[{)>]}"
+set linenumbers
+set nohelp
+set tabsize 4
+
+set errorcolor red
+set numbercolor magenta
+set functioncolor magenta
+set keycolor white
+set titlecolor magenta
+set statuscolor magenta
