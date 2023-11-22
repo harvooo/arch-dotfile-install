@@ -21,3 +21,6 @@ Install script with custom dotfiles
 - pacman
 - rofi
 - i3blocks
+
+## Extra dependencies
+- nano-syntax-highlighting
