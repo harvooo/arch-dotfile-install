@@ -8,6 +8,10 @@ Use [yay](https://github.com/Jguer/yay) to download and build from AUR. Or [appe
 yay -S i3-gaps i3blocks xfce4 xbanish pa-applet network-manager-applet xbacklight rofi thunar nano-syntax-highlighting
 ```
 Clone repo and move config files respectively
+```
+git clone https://github.com/harvooo/arch-dotfile-install.git &&
+cd arch-dotfile-install
+```
 ## Desktop
 - i3-gaps
 - i3blocks
